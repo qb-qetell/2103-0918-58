@@ -9,3 +9,5 @@
 It contains --- Programmatic error programming code.
 
 Programmatic error is error encountered during pogram execution.
+
+[Further details and how to use: See pkg.go.dev](https://pkg.go.dev/github.com/qeetell/err)
