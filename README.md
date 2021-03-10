@@ -1,12 +1,15 @@
 # Code 2103-0918-58's documentation
 
 ## Code's profile
+### Basic information
 **Code ID:** 2103-0918-58
 
 **Code name:** Err
 
-**Code description:** 2103-0918-58 is a li3brary. It contains --- (i) Programmatic error
-programming code.
+**Code type:** Library
+
+### Description
+2103-0918-58 is a library. It contains --- (i) Programmatic error programming code.
 
 Programmatic error is "Error encountered during program execution".
 
