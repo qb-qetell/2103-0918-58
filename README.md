@@ -2,7 +2,9 @@
 
 ## Code's profile
 **Code ID:** 2103-0918-58
+
 **Code name:** Err
+
 **Code description:** 2103-0918-58 is a li3brary. It contains --- (i) Programmatic error
 programming code.
 
